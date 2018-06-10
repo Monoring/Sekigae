@@ -1,0 +1,15 @@
+ver1.1 → ver1.2 変更点
+・プログラム名変更
+・文字コードの明記
+・Sekigae.mainのcatch部でエラー内容、エラーの発生をコンソール上でユーザに通知。
+・Sekigae.mainのtry-catch分にSekigaeプログラムの終了をコンソール上に出力するfinallyを追加。
+・メソッド名、変数名を分かりやすい名前に置換
+・Irukasan → Sekigae
+・Dodoriasan → ExecutionPart
+・ExecutionPart.ban → ExecutionPart.format
+・Sekigae.dodo → Sekigae.person
+・ExecutionPart.seki() → ExecutionPart.result()
+・ExecutionPart.seki → ExecutionPart.result
+・ExecutionPart.mae → ExecutionPart.reserve
+・ExecutionPart.uke → ExecutionPart.target
+・ExecutionPart.list → ExecutionPart.seat_list
